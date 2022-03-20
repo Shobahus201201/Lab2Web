@@ -78,9 +78,9 @@ Disini saya merubah font-color,fontnya saya ubah menjadi justify, contohnya pada
 
 	Berikut merupakan hasil pengujian deklarasi CSS
 
-	CSS Inline `blue`
+	CSS Inline    `blue`
 	  
-	CSS Internal `red`
+	CSS Internal  `red`
 	
 	CSS Eksternal `yellow`
 	
