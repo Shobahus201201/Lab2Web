@@ -51,7 +51,7 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 
-![Foto](Foto/22.png)
+![Foto](Foto/pp.png)
 
 
 ## Pertanyaan dan Tugas
