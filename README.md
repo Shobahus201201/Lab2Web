@@ -64,7 +64,7 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.</b><br>
   - Jawaban = 
 Disini saya merubah font-color,fontnya saya ubah menjadi justify, contohnya pada gambar berikut : <br>
-![Foto](Foto/SEBELUM.png)<br>  
+![Foto](Foto/pp.png)<br>  
   
   - Setelah perubahan,
 ![Foto](Foto/sesudah.png)<br>
